@@ -79,7 +79,7 @@ export default function ComunityComponent() {
           </Stack>
           <Divider component="div" />
         </Grid>
-        {renderSelectedContent}
+        <Group/>
       </Box>
     </>
     // </ContentContext.Provider>
